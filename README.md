@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idan
+- 👋 Hi, 
 - 👀 I’m interested in financial related technology 
 - 🌱 I’m currently learning about cyber security products 
 - 💞️ I’m looking to collaborate on research new cyber security solutions
